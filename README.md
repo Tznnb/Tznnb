@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tznnb
-- 👀 I’m interested in studying
-- 🌱 I’m currently learning C++
+
 
 
 <!---
